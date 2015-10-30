@@ -1,0 +1,8 @@
+
+Toad Man:
+loop start: 001567498 samples 35.544 seconds
+loop length: 001321900 samples 65.519 seconds
+
+Go to Blazes!:
+loop start: 000448581 samples 10.000 seconds
+loop length: 001435787 samples 43.000 seconds

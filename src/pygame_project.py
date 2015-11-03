@@ -95,42 +95,7 @@ class Main:
 					bump = True
 				if bump == True:
 					new_rank += 1
-			
-			bump = False
-			for rank in ranks:
-				if new_rank == rank:#Find index for bumpin
-					bump = True
-			if bump == True:
-				new_rank += 1
-			
-			bump = False	
-			for rank in ranks:
-				if new_rank == rank:#Find index for bumpin
-					bump = True
-			if bump == True:
-				new_rank += 1
-			
-			bump = False	
-			for rank in ranks:
-				if new_rank == rank:#Find index for bumpin
-					bump = True
-			if bump == True:
-				new_rank += 1
-			
-			bump = False
-			for rank in ranks:
-				if new_rank == rank:#Find index for bumpin
-					bump = True
-			if bump == True:
-				new_rank += 1
-			
-			bump = False
-			for rank in ranks:
-				if new_rank == rank:#Find index for bumpin
-					bump = True
-			if bump == True:
-				new_rank += 1
-			############Lol ewww
+			############			
 			ranks.append(new_rank)
 		
 		count2 = 0

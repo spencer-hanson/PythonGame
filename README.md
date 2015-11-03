@@ -11,7 +11,7 @@ python2 pygame_project.py
 
 <hr />
 ###ToDo:
-#####What needs to be done:
+#####What could/needs to be done:
 + Score system. - CHECK
 +High Score table. - CHECK
 + "Lives" indicator. - CHECK
@@ -31,6 +31,7 @@ python2 pygame_project.py
 + A good name for the game.
 <hr />
 ###Description:
+
 ####Created By Spencer Hanson and Zachary Haney
 
 This game is a game of the Danmaku genre. Danmaku, more commonly known as "Bullet Hell" is a type of scrolling shoot-em-up where enemies send down curtains of bullets that the player must navigate through by using a ship with a small hit box, while simultaneously shooting back at the enemies in order to score points. Stages in danmaku games consist of several waves of enemies shooting various patterns of bullets. A typical stage is punctuated by an encounter with a boss, which is significantly tougher than the stage enemies, and often fires more complicated, harder-to -dodge patterns. Sometimes a stage may have a "sub-boss" which appears near the middle of the stage, serving as an obstacle until the player can defeat it.

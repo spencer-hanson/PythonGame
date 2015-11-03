@@ -30,7 +30,6 @@ python2 pygame_project.py
 + True final boss that can only be fought at the end of loop 2 and above.
 + A good name for the game.
 <hr />
-###Description:
 
 ####Created By Spencer Hanson and Zachary Haney
 

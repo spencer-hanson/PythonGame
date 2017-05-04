@@ -13,7 +13,7 @@ python2 pygame_project.py
 ### ToDo:
 ##### What could/needs to be done:
 + Score system. - CHECK
-+High Score table. - CHECK
++ High Score table. - CHECK
 + "Lives" indicator. - CHECK
 + Enemy bullets that are shot at the player. - CHECK
 + Spread shots (Includes 360 spreads.)

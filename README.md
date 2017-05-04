@@ -2,16 +2,20 @@
 <img src="media/PythonGame.gif" width="663" height="537" />
 <br />
 <hr />
+
 ## Run the game!
+
 In order to run the game, use the terminal to run 
+
 ```shell
 cd src
 python2 pygame_project.py
 ```
 
 <hr />
-### ToDo:
-##### What could/needs to be done:
+
+#### What could/needs to be done:
+
 + Score system. - CHECK
 + High Score table. - CHECK
 + "Lives" indicator. - CHECK
@@ -29,6 +33,7 @@ python2 pygame_project.py
 + Multiple loops (A "loop" means that upon beating the last boss, the game is reset to stage 1, but at a much higher difficulty level.)
 + True final boss that can only be fought at the end of loop 2 and above.
 + A good name for the game.
+
 <hr />
 
 #### Created By Spencer Hanson and Zachary Haney
